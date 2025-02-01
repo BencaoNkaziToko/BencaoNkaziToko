@@ -1,5 +1,3 @@
-Aqui está uma descrição para sua apresentação no GitHub:  
-
 ---
 
 # Bem-vindo ao meu perfil no GitHub! 👋  
